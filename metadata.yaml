@@ -1,0 +1,41 @@
+_repo: Laocoon-b-An-essay-upon-the-limits-of-painting-and-poetry-With-remarks-illustrative-of-variou__73078
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Frothingham, Ellen
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '4725'
+    url: http://www.gutenberg.org/2009/agents/4725
+    wikipedia: https://en.wikipedia.org/wiki/Ellen_Frothingham
+creator:
+  author:
+    agent_name: Lessing, Gotthold Ephraim
+    alias: Lessing, G. E.
+    birthdate: 1729
+    deathdate: 1781
+    gutenberg_agent_id: '990'
+    url: http://www.gutenberg.org/2009/agents/990
+    wikipedia: https://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
+description: ''
+gutenberg_issued: '2024-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73078'
+language: en
+pgterms:marc904: https://archive.org/details/laocoon01less/page/n9/mode/2up
+pgterms:marc905: 20211216033253lessing
+pgterms:marc906: '1873'
+pgterms:marc907: US
+production_note: Richard Tonsing, Tim Lindell, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aBoston :$bRoberts Brothers, $c1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Laocoon : $b An essay upon the limits of painting and poetry. With remarks
+  illustrative of various points in the history of ancient art.'
+url: http://www.gutenberg.org/ebooks/73078
