@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '4725'
     url: http://www.gutenberg.org/2009/agents/4725
     wikipedia: https://en.wikipedia.org/wiki/Ellen_Frothingham
+covers:
+- cover_type: archival
+  image_path: 73078-h/images/cover.jpg
 creator:
   author:
     agent_name: Lessing, Gotthold Ephraim
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/990
     wikipedia: https://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73078#Laocoon-b-An-essay-upon-the-limits-of-painting-and-poetry-With-remarks-illustrative-of-variou_
 gutenberg_issued: '2024-02-29'
 gutenberg_type: Text
 identifiers:
